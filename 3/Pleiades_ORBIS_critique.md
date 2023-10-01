@@ -21,9 +21,6 @@ Highly intuitive tools with detailed tutorials for use.
 Uncertain how to grade along this axis.
 
 
-
-
-
 # Orbis
 
 ## Permanence and sustainability
