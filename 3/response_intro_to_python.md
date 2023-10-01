@@ -13,9 +13,7 @@ Parameters (like variables) are locally defined.
 For example, below I create a function "fun," with the parameters "wee" and "woo".
 
   def fun(wee, woo):
-  
     goodtime = wee + woo
-    
     print(goodtime)
 
 Calling _fun_ will now print the two arguments that go in, 
