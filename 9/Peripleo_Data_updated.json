@@ -1,0 +1,133 @@
+{
+    "@id": "https://w3id.org/five_places_with_image_links",
+    "type": "FeatureCollection",
+    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
+    "features": [
+        {
+            "@id": "https://w3id.org/five_places_with_image_links/d73230b3-f6ba-4701-8164-6f09b3c5fb88",
+            "type": "Feature",
+            "properties": {
+                "title": "Athenae",
+                "url": "https://pleiades.stoa.org/places/579885",
+                "depictions": [
+                    {
+                        "@id":"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.4FHg4AYsv8TKGBl59wgB5wHaE9%26pid%3DApi&f=1&ipt=d8f259f846ee2f7b6012d53bd9bbc4e7987866bf16edc3aaf784622e1d0e1823&ipo=images",
+                        "title": "The Acropolis Museum as seen from the top of the Acropolis of Athens",
+                        "thumbnail": "https://s3.geograph.org.uk/geophotos/04/63/93/4639399_bde13bd4_120x120.jpg"
+                    }
+                ] 
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.726268222011864,
+                    37.972453602957316
+                ]
+            }
+        },
+        {
+            "@id": "https://w3id.org/five_places_with_image_links/d7a163ba-5620-476c-9021-b5ce1073f3a6",
+            "type": "Feature",
+            "properties": {
+                "title": "Lyktos",
+                "url": "https://pleiades.stoa.org/places/589918",
+                "depictions": [
+                    { 
+                        "@id":"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.N852_XcFPC9jDds2VfkXpAHaEK%26pid%3DApi&f=1&ipt=b3aaec729a5007cd4a9ba074013a8247f428539c3ee699017efae16e6d02f0b2&ipo=images",
+                        "title": "The Acropolis Museum as seen from the top of the Acropolis of Athens",
+                        "thumbnail": "https://s3.geograph.org.uk/geophotos/04/63/93/4639399_bde13bd4_120x120.jpg"
+                    }
+                ] 
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3682,
+                    35.2081
+                ]
+            }
+        },
+        {
+            "@id": "https://w3id.org/five_places_with_image_links/0a6d62cd-e707-4a95-b90a-bbc01a4cad20",
+            "type": "Feature",
+            "properties": {
+                "title": "Sparta",
+                "url": "https://pleiades.stoa.org/places/570685",
+                "depictions": [
+                    { 
+                        "@id":"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fres.cloudinary.com%2Fodysseytraveller%2Fimage%2Ffetch%2Ff_auto%2Cq_auto%2Cdpr_auto%2Cr_4%2Cw_765%2Ch_535.5%2Cc_limit%2Fhttps%3A%2F%2Fcdn.odysseytraveller.com%2Fapp%2Fuploads%2F2020%2F02%2FGettyImages-177310115.jpg&f=1&nofb=1&ipt=7c2ad7665b28ca9ad2489063f6dfee4b2b7e687f1217868d32a406a493ae7227&ipo=images",
+                        "title": "The Acropolis Museum as seen from the top of the Acropolis of Athens",
+                        "thumbnail": "https://s3.geograph.org.uk/geophotos/04/63/93/4639399_bde13bd4_120x120.jpg"
+                    }
+                ] 
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.424682546177092,
+                    37.08184552460426
+                ]
+            }
+        },
+        {
+            "@id": "https://w3id.org/five_places_with_image_links/a3159c7e-226a-46aa-a13f-af01e01748b0",
+            "type": "Feature",
+            "properties": {
+                "title": "Thebae",
+                "url": "https://pleiades.stoa.org/places/541138",
+                "depictions": [
+                    { 
+                        "@id":"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.nwObpVkc7ImTCikXKfXxaAHaEK%26pid%3DApi&f=1&ipt=ae937467f584f2013f567dec4924d8398c8b7e50d79ca3956eff4dc5c013e8e1&ipo=images",
+                        "title": "The Acropolis Museum as seen from the top of the Acropolis of Athens",
+                        "thumbnail": "https://s3.geograph.org.uk/geophotos/04/63/93/4639399_bde13bd4_120x120.jpg"
+                    }
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.317577,
+                    38.319156
+                ]
+            }
+        },
+        {
+            "@id": "https://w3id.org/five_places_with_image_links/19295360-bf54-4818-bc42-51a13a33d0c8",
+            "type": "Feature",
+            "properties": {
+                "title": "Alexandria",
+                "url": "https://pleiades.stoa.org/places/727070",
+                "depictions": [
+                    {
+                        "@id":"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fleosystem.travel%2Fwp-content%2Fuploads%2F2020%2F10%2F577181344.jpg&f=1&nofb=1&ipt=858fcf84c42ece97d11947dbb5ef4383f933fa6308156f5f1bdb67f8c6805431&ipo=images",
+                        "title": "The Acropolis Museum as seen from the top of the Acropolis of Athens",
+                        "thumbnail": "https://s3.geograph.org.uk/geophotos/04/63/93/4639399_bde13bd4_120x120.jpg"
+                    }
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.909773,
+                    31.201435
+                ]
+            }
+        }
+    ],
+    "indexing": {
+        "@type": "Dataset",
+        "name": "five places with image links",
+        "description": "",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "identifier": "https://w3id.org/five_places_with_image_links",
+        "temporalCoverage": "1066/2022",
+        "spatialCoverage": {
+            "@type": "GeoShape",
+            "box": "0.580101 0.00149 60.355 9.78667",
+            "geo": {
+                "@type": "GeoShape",
+                "box": "31.201435 22.424682546177092 38.319156 29.909773"
+            }
+        }
+    }
+}
