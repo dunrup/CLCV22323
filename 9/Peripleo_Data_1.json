@@ -11,8 +11,8 @@
                 "url": "https://pleiades.stoa.org/places/579885",
                 "depictions": [
                     {
-                        "@id":"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.4FHg4AYsv8TKGBl59wgB5wHaE9%26pid%3DApi&f=1&ipt=d8f259f846ee2f7b6012d53bd9bbc4e7987866bf16edc3aaf784622e1d0e1823&ipo=images",
-                        "title": "The Acropolis Museum as seen from the top of the Acropolis of Athens",
+                        "@id":"https://upload.wikimedia.org/wikipedia/commons/2/2f/Erechtheum_Acropolis_Athens.jpg",
+                        "title": "Athens, Erechtheoin",
                         "thumbnail": "https://s3.geograph.org.uk/geophotos/04/63/93/4639399_bde13bd4_120x120.jpg"
                     }
                 ] 
@@ -33,8 +33,8 @@
                 "url": "https://pleiades.stoa.org/places/589918",
                 "depictions": [
                     { 
-                        "@id":"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.N852_XcFPC9jDds2VfkXpAHaEK%26pid%3DApi&f=1&ipt=b3aaec729a5007cd4a9ba074013a8247f428539c3ee699017efae16e6d02f0b2&ipo=images",
-                        "title": "The Acropolis Museum as seen from the top of the Acropolis of Athens",
+                        "@id":"https://upload.wikimedia.org/wikipedia/commons/5/5d/%CE%92%CE%BF%CF%85%CE%BB%CE%B5%CF%85%CF%84%CE%AE%CF%81%CE%B9%CE%BF%2C_%CE%9B%CF%8D%CF%84%CF%84%CE%BF%CF%82_0214.jpg",
+                        "title": "Bouleuterion of Lyttos",
                         "thumbnail": "https://s3.geograph.org.uk/geophotos/04/63/93/4639399_bde13bd4_120x120.jpg"
                     }
                 ] 
@@ -55,8 +55,8 @@
                 "url": "https://pleiades.stoa.org/places/570685",
                 "depictions": [
                     { 
-                        "@id":"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fres.cloudinary.com%2Fodysseytraveller%2Fimage%2Ffetch%2Ff_auto%2Cq_auto%2Cdpr_auto%2Cr_4%2Cw_765%2Ch_535.5%2Cc_limit%2Fhttps%3A%2F%2Fcdn.odysseytraveller.com%2Fapp%2Fuploads%2F2020%2F02%2FGettyImages-177310115.jpg&f=1&nofb=1&ipt=7c2ad7665b28ca9ad2489063f6dfee4b2b7e687f1217868d32a406a493ae7227&ipo=images",
-                        "title": "The Acropolis Museum as seen from the top of the Acropolis of Athens",
+                        "@id":"https://upload.wikimedia.org/wikipedia/commons/9/9e/Menelaion.jpg",
+                        "title": "Menelaion",
                         "thumbnail": "https://s3.geograph.org.uk/geophotos/04/63/93/4639399_bde13bd4_120x120.jpg"
                     }
                 ] 
@@ -77,8 +77,8 @@
                 "url": "https://pleiades.stoa.org/places/541138",
                 "depictions": [
                     { 
-                        "@id":"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.nwObpVkc7ImTCikXKfXxaAHaEK%26pid%3DApi&f=1&ipt=ae937467f584f2013f567dec4924d8398c8b7e50d79ca3956eff4dc5c013e8e1&ipo=images",
-                        "title": "The Acropolis Museum as seen from the top of the Acropolis of Athens",
+                        "@id":"https://upload.wikimedia.org/wikipedia/commons/e/e5/Thebes-1.jpg",
+                        "title": "Thebes, Cadmia",
                         "thumbnail": "https://s3.geograph.org.uk/geophotos/04/63/93/4639399_bde13bd4_120x120.jpg"
                     }
                 ]
@@ -99,8 +99,8 @@
                 "url": "https://pleiades.stoa.org/places/727070",
                 "depictions": [
                     {
-                        "@id":"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fleosystem.travel%2Fwp-content%2Fuploads%2F2020%2F10%2F577181344.jpg&f=1&nofb=1&ipt=858fcf84c42ece97d11947dbb5ef4383f933fa6308156f5f1bdb67f8c6805431&ipo=images",
-                        "title": "The Acropolis Museum as seen from the top of the Acropolis of Athens",
+                        "@id":"https://upload.wikimedia.org/wikipedia/commons/5/52/Pompey%27s_Pillar_with_Sphinx.jpg",
+                        "title": "Alexandria, Pompey's Pillar",
                         "thumbnail": "https://s3.geograph.org.uk/geophotos/04/63/93/4639399_bde13bd4_120x120.jpg"
                     }
                 ]

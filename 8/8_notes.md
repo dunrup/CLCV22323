@@ -5,23 +5,23 @@ startup
             this is a JSON file, however. python treats JSON "objects" as dictionaries
 
 
->> import json 
-in python
-change from
->> with open('589918.json', encoding = 'utf-8') as f:
-    data = f.read()
-to
->> with open('589918.json', encoding = 'utf-8') as f:
-    data = json.load(f)
+    >> import json 
+    in python
+    change from
+    >> with open('589918.json', encoding = 'utf-8') as f:
+        data = f.read()
+    to
+    >> with open('589918.json', encoding = 'utf-8') as f:
+        data = json.load(f)
 
-the former reads it as a txt file, the latter as a JSON file, which python understands as a dictionary
+    the former reads it as a txt file, the latter as a JSON file, which python understands as a dictionary
 
-dictionaries
-    keys, values
+    dictionaries
+        keys, values
 
-the JSON file is a dictionary inside a list inside a dictionary
-    read a dict with dictname['name of key']
-    read a list with listname[#] (place number in the bracket)
+    the JSON file is a dictionary inside a list inside a dictionary
+        read a dict with dictname['name of key']
+        read a list with listname[#] (place number in the bracket)
 
 now let's read from pleiades directly, rather than downloading the file
 >>    def getjson(uri) :
