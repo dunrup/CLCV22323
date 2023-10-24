@@ -1,0 +1,124 @@
+{
+    "@id": "https://w3id.org/five_places_with_image_links3",
+    "type": "FeatureCollection",
+    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
+    "features": [
+        {
+            "@id": "https://w3id.org/five_places_with_image_links3/4958ba2d-0b84-446a-ac7f-b35101d2e582",
+            "type": "Feature",
+            "properties": {
+                "title": "Athenae",
+                "url": "https://pleiades.stoa.org/places/579885"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.726268222011864,
+                    37.972453602957316
+                ]
+            },
+            
+            "depictions": [
+                {
+                    "@id": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Erechtheum_Acropolis_Athens.jpg"
+                }
+            ]
+        },
+        {
+            "@id": "https://w3id.org/five_places_with_image_links3/52397879-8bf9-4c58-bc08-e5a04941c984",
+            "type": "Feature",
+            "properties": {
+                "title": "Lyktos",
+                "url": "https://pleiades.stoa.org/places/589918"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3682,
+                    35.2081
+                ]
+            },
+            "depictions": [
+                {
+                    "@id": "https://upload.wikimedia.org/wikipedia/commons/5/5d/%CE%92%CE%BF%CF%85%CE%BB%CE%B5%CF%85%CF%84%CE%AE%CF%81%CE%B9%CE%BF%2C_%CE%9B%CF%8D%CF%84%CF%84%CE%BF%CF%82_0214.jpg"
+                }
+            ]
+        },
+        {
+            "@id": "https://w3id.org/five_places_with_image_links3/4744cc49-22c6-429b-b616-369e94dacd5c",
+            "type": "Feature",
+            "properties": {
+                "title": "Sparta",
+                "url": "https://pleiades.stoa.org/places/570685"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.424682546177092,
+                    37.08184552460426
+                ]
+            },
+            "depictions": [
+                {
+                    "@id": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Menelaion.jpg"
+                }
+            ]
+        },
+        {
+            "@id": "https://w3id.org/five_places_with_image_links3/de969a6a-6dbe-485f-a8dc-12bbc5812966",
+            "type": "Feature",
+            "properties": {
+                "title": "Thebae",
+                "url": "https://pleiades.stoa.org/places/541138"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.317577,
+                    38.319156
+                ]
+            },
+            "depictions": [
+                {
+                    "@id": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Thebes-1.jpg"
+                }
+            ]
+        },
+        {
+            "@id": "https://w3id.org/five_places_with_image_links3/302334aa-04c4-4bed-a182-e1226beff7c9",
+            "type": "Feature",
+            "properties": {
+                "title": "Alexandria",
+                "url": "https://pleiades.stoa.org/places/727070"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.909773,
+                    31.201435
+                ]
+            },
+            "depictions": [
+                {
+                    "@id": "https://upload.wikimedia.org/wikipedia/commons/5/52/Pompey%27s_Pillar_with_Sphinx.jpg"
+                }
+            ]
+        }
+    ],
+    "indexing": {
+        "@type": "Dataset",
+        "name": "five places with image links3",
+        "description": "",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "identifier": "https://w3id.org/five_places_with_image_links3",
+        "temporalCoverage": "1066/2022",
+        "spatialCoverage": {
+            "@type": "GeoShape",
+            "box": "0.580101 0.00149 60.355 9.78667",
+            "geo": {
+                "@type": "GeoShape",
+                "box": "31.201435 22.424682546177092 38.319156 29.909773"
+            }
+        }
+    }
+}
