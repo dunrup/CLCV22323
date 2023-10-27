@@ -16,7 +16,7 @@ A+
 Highly intuitive tools with detailed tutorials for use. 
 
 ## Connectivity across resources (under the principles of Linked Open Data)
-?
+A
 
 Uncertain how to grade along this axis.
 
@@ -34,6 +34,7 @@ A
 Extensive write-up in the "Building" section of their "About" page that lays out the details and assumptions built into the model and the evidence/data that underpin these arguments. Ample bibliography.
 I can easily export via the "Export SVG" function to edit the maps that I use the tool to make.
      
+     take two: this is actually a C. there is no way to actually get the data
 
 ## Functionality of their interface and interaction with their data
 A+
@@ -41,8 +42,8 @@ A+
 Highly intuitive tools with detailed tutorials for use. Fully visualized dataset that can be manipulated by the user to do further resources.
 
 ## Connectivity across resources (under the principles of Linked Open Data)
-?
+C
 
-Uncertain how to grade on this axis.
+No connectivity
 
     
