@@ -3,6 +3,7 @@
 
 ## Permanence and sustainability
 B+/A-
+
 Per Wikipedia, CyArk is a non-profit funded by a host of donors (e.g., Microsoft, IBM) and partnered with several national organizations (e.g., US National Park Service, Mexico's Dept. of History & Anthropology). Funding is probably secure in the near future, but I see no long-term plan to join with an org like a university.
 
 ## Openness or restriction of their data
@@ -44,10 +45,15 @@ Honestly quite difficult to navigate around the site, and browsing comes with si
 
 ## Connectivity across resources (under the principles of Linked Open Data)
 1 star.
-
+__________________________
 > Reference:
+
 >    ★ 	    Available on the web (whatever format) but with an open licence, to be Open Data
->    ★★ 	Available as machine-readable structured data (e.g. excel instead of image scan of a table)
->    ★★★ 	as (2) plus non-proprietary format (e.g. CSV instead of excel)
->    ★★★★ 	All the above plus, Use open standards from W3C (RDF and SPARQL) to identify things, so that people can point at your stuff
->    ★★★★★ 	All the above, plus: Link your data to other people’s data to provide context
+
+>    ★★ 	    Available as machine-readable structured data (e.g. excel instead of image scan of a table)
+
+>    ★★★ 	   as (2) plus non-proprietary format (e.g. CSV instead of excel)
+
+>    ★★★★ 	   All the above plus, Use open standards from W3C (RDF and SPARQL) to identify things, so that people can point at your stuff
+
+>    ★★★★★ 	  All the above, plus: Link your data to other people’s data to provide context
