@@ -7,7 +7,7 @@ Make the internet machine-readable. Extension of WWW to make information more me
         - subject: fact or thing being described
         - predicate: a property of the thing
         - object: the value to give
-    - 
+    - basically everything can be represented this way - think of the sub and pred as an excel's x and y axis and the obj as the value
 
 - Web Ontology Language, OWL
     - language that creates the RDF ontology
@@ -22,10 +22,13 @@ Make the internet machine-readable. Extension of WWW to make information more me
 - Linked Open Data, LOD
 
 
+!-- to install things with pandas on your laptop, make sure to install thru conda's cmd prompt --
 
-<!-- to install things with pandas on your laptio, make sure to install thru conda's cmd prompt -->
 - wikidata has a built in query service to do SPARQL queries -- look at notebook 15 sparql for useful links!
     - on wikidata's query service, ctrl space allows you to text search for properties and ids
     - the wikidata API notebook does that function for you
     
+
+URI - uniform resource identifer
+url - '' locators
 

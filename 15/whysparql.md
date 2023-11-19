@@ -2,4 +2,4 @@
 
 # why SPARQL
 
-With SPARQL, we can query any open database
+With SPARQL, we can query any open RDF formatted database. This allows us to retreive and manipulate data from various sources across the internet (provided they are LOD). Pretty much all data can be represented as a triple (subject, predicate, object). We use SPARQL in a python environment and can then work with, e.g., Pandas, to conduct analyses on all sorts of data.
