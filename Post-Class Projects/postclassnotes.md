@@ -23,7 +23,7 @@ note: I can't believe I'm doing all this just to change a fucking font size
 # The Journey
 I wanted to mess with the app [Myosotis](https://github.com/gebrkn/Myosotis). To do this, I learned that I could download the code and edit it in VSCode here, but I didn't know how to then package and run the code I was using. 
 
-Georgios pointed me [here](https://stackoverflow.com/questions/37648756/how-to-package-a-nw-js-application-on-windows/37649349#37649349). These are instructions on how to package a NW.js app on Windows. So I need to package this app, which was coded with NW.js. To do so, I needed to install Node.js and NPM, which I did by first installing nvm-Windows. Then I installed the nw-builder module
+Georgios pointed me [here](https://stackoverflow.com/questions/37648756/how-to-package-a-nw-js-application-on-windows/37649349#37649349). These are instructions on how to package a NW.js app on Windows. So I need to package this app, which was coded with NW.js. To do so, I needed to install Node.js and NPM, which I did by first installing nvm-Windows. (Note: this didn't work on my desktop. a 404 error in nvm-Windows. So I installed npm via winget.) Then I installed the nw-builder module
 
 try following these instrutions
 https://github.com/nwjs/nw.js
